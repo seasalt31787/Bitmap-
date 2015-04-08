@@ -16,7 +16,7 @@ Sobel filter 實作的結果如下圖。最左邊是原始圖片，經過 Sobel 
 
 當初先是Dev c++出現了小問題(無法編譯+執行)，沒想到還傻傻上去問問題，結果重開Dev c++就解決了。
 
-(https://drive.google.com/drive/folders/0B20PbhQDsshxfnhGdDJPR0V2RldBdDhIMDlzR1BWT3RTc2VjYy1ndGlwcW9GajBYWG1LcDQ)
+(https://docs.google.com/file/d/0B20PbhQDsshxbDhKN2RCaUpJLVU/edit)
 
 
 
